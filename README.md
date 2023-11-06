@@ -1,4 +1,4 @@
-I have created a Calculator app using React, It's a simple and combines powerful JavaScript logic with a great and intuitive UI. 
+I have created a Calculator app using React, It is a simple but combines powerful JavaScript logic with a sleek and user-friendly interface.
 
 
 # Deployment
